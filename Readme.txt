@@ -1,15 +1,28 @@
+# K-Nearest Neighbours Classifier
 
-Before running the application check for the following libraries are installed. 
-1.streamlit
-2.numpy
-3.Pillow
-4.pandas
-5.requests
-6.beautifulsoup4
-7.urllib3
+This repository contains a simple implementation of the K-Nearest Neighbours (KNN) algorithm in Python.
 
-Run the app by  navigating to the folder where it is saved and use the following command:
+## Files
 
-“ Streamline run App.py “
+- `KNearestNeighbours.py`: This is the main Python script that contains the `KNearestNeighbours` class for the KNN classifier.
 
-:)
+## Usage
+
+1. Import the `KNearestNeighbours` class from `KNearestNeighbours.py`.
+2. Initialize the class with your training data, target values, test point, and the number of neighbours to consider.
+3. Call the `fit` method to perform the KNN classification.
+
+
+## Dependencies
+
+This project requires the following Python libraries:
+
+- numpy
+- streamlit
+- numpy
+- Pillow
+- pandas
+- requests
+- beautifulsoup4
+- urllib3
+

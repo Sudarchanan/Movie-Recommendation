@@ -12,8 +12,4 @@ Run the app by  navigating to the folder where it is saved and use the following
 
 “ Streamline run App.py “
 
-
-
-#Done by Sujan✌️✌️✌️
-
 :)

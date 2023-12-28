@@ -18,8 +18,6 @@ This repository contains a simple implementation of the K-Nearest Neighbours (KN
 This project requires the following Python libraries:
 
 - numpy
-- streamlit
-- numpy
 - Pillow
 - pandas
 - requests
